@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px
+}
+
+/* header stylished */
+.header-container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(229, 84, 115, 0.10);
+}
