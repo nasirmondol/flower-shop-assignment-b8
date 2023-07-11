@@ -177,8 +177,12 @@ figcaption {
     justify-content: center;
 }
 
-.hot-child1{
+.hot-child1 {
     margin-top: 80px;
+}
+
+.hot-span {
+    color: #E55473;
 }
 
 /* Instagram section stylished */
@@ -223,4 +227,60 @@ figcaption {
     width: 270px;
     height: 280px;
     margin-right: 24px;
+}
+
+/* laest deals */
+.latest-container {
+    margin-top: 120px;
+    margin-right: 97px;
+    margin-left: 96px;
+    text-align: center;
+    height: 349px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    background-repeat: none;
+    background-position: center;
+}
+
+.latest-title {
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    color: rgba(39, 39, 39, 1);
+}
+
+.latest-des {
+    margin-bottom: 15px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.email-input {
+    width: 500px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #FFF;
+    border: none;
+    text-align: left;
+    padding: 8px;
+}
+
+.submit{
+    color: white;
+    height: 49px;
+    padding: 10px;
+    background-color: #E55473;
+    border: none;
+    width: 150px;
+    border-radius: 4px;
+    margin-left: 3px;/
 }
