@@ -148,6 +148,8 @@ figcaption {
 /* Experts section */
 .experts-container{
     margin-top: 50px;
+    background-color: rgba(167, 33, 98, 0.15);
+    padding: 25px;
 }
 
 
