@@ -57,3 +57,52 @@ body {
     margin-bottom: 30px;
 
 }
+
+/* Featured style added */
+.featured-text {
+    padding: 20px 400px;
+    text-align: center;
+    margin-top: 78px;
+}
+
+.featured-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.images-1 {
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 250px;
+    height: 390px;
+}
+
+.featured-img img {
+    padding: 20px;
+    width: 310px;
+    height: 400px;
+    flex-shrink: 0;
+    margin-right: 24px;
+}
+
+.featured-img {
+    margin: 20px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+figcaption {
+    color: #272727;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    text-decoration-line: underline;
+}
