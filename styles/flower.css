@@ -26,8 +26,9 @@ body {
 
 .header-img {
     width: 50%;
-    display: block;
-    margin-bottom: -95px;
+    margin-bottom: -86px;
+    width: 650px;
+    height: 800px;
 }
 
 .header-title {
@@ -312,10 +313,10 @@ figcaption {
     margin-bottom: 20px;
 }
 
-.footer-span{
+.footer-span {
     color: #E55473;
 }
 
-.footer-des{
+.footer-des {
     margin-bottom: 20px;
 }
