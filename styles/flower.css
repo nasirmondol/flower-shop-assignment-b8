@@ -7,6 +7,49 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+/* navbar style */
+
+nav {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between;*/
+    /* margin: 0px 226px;  */
+    height: 80px;
+    gap: 700px;
+    text-align: center;
+    background-color: rgba(197, 182, 182, 0.468);
+}
+
+.title{
+    margin-left: 50px;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 51px;
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+/* .btn {
+    background-color: #FD6E0A;
+    border: 0;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 10px 35px;
+    color: white;
+} */
+
+
 /* header stylished */
 .header-container {
     padding: 20px;
@@ -134,7 +177,7 @@ figcaption {
 }
 
 .service img {
-   margin-right: 45px;
+    margin-right: 45px;
 }
 
 /* Hot deal section */
