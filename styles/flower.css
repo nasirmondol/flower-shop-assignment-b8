@@ -106,3 +106,73 @@ figcaption {
     line-height: 20px;
     text-decoration-line: underline;
 }
+
+/* feature services */
+/* .feature-service {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 320px;
+    background-color: rgba(39, 39, 39, 0.05);
+}
+
+.img-caption {
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+.service{
+    margin-right: 30px;
+}
+.service img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* Hot deal section */
+.hot-deal-container {
+    margin-top: 128px;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    gap: 215px;
+    padding: 40px;
+}
+
+.hot-child {
+    text-align: center;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.hot-des {
+    margin-bottom: 24px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.hot-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.hot-deal-container img {
+    width: 318px;
+    height: 420px;
+}
+
+.hot-text {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
