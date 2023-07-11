@@ -112,13 +112,15 @@ figcaption {
 }
 
 /* feature services */
-/* .feature-service {
+.feature-service {
     margin-top: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 320px;
     background-color: rgba(39, 39, 39, 0.05);
+    margin-right: 130px;
+    margin-left: 110px;
 }
 
 .img-caption {
@@ -126,14 +128,14 @@ figcaption {
     text-decoration: none;
 }
 
-.service{
-    margin-right: 30px;
-}
-.service img{
+.service {
+    text-align: center;
     display: flex;
-    justify-content: center;
-    align-items: center;
-} */
+}
+
+.service img {
+   margin-right: 45px;
+}
 
 /* Hot deal section */
 .hot-deal-container {
