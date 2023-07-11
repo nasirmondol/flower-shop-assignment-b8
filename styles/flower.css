@@ -39,15 +39,6 @@ nav a {
     text-decoration: none;
 }
 
-/* .btn {
-    background-color: #FD6E0A;
-    border: 0;
-    font-size: 17px;
-    font-style: normal;
-    font-weight: 700;
-    padding: 10px 35px;
-    color: white;
-} */
 
 
 /* header stylished */
@@ -152,6 +143,50 @@ figcaption {
     font-weight: 700;
     line-height: 20px;
     text-decoration-line: underline;
+}
+
+/* Experts section */
+.experts-container{
+    margin-top: 50px;
+}
+
+
+.expert-img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 30px;
+}
+
+.experts-parent-title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 20px;
+
+}
+
+.expert-desc{
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+.exper-title{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+
+.expert-text{
+    padding-right: 410px;
+    padding-left: 410px;
+    text-align: center;
 }
 
 /* feature services */
